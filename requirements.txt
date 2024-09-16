@@ -21,4 +21,3 @@ pyceres
 pycolmap==3.10.0
 poselib==2.0.2
 gdown
-zipfile
