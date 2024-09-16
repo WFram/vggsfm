@@ -1,0 +1,23 @@
+# Default: Python 3.10, Pytorch 2.1 Nvidia : CUDA 12.1
+torch==2.1.0
+torchvision==0.16.0
+fvcore
+iopath
+hydra-core
+omegaconf
+opencv-python
+einops
+visdom
+tqdm
+scipy
+plotly
+scikit-learn
+imageio[ffmpeg]
+gradio
+trimesh
+huggingface_hub
+numpy==1.26.3
+pyceres
+pycolmap==3.10.0
+poselib==2.0.2
+gdown
